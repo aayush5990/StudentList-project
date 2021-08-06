@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StudentList-project/static/css/main.afd7172b.chunk.css",
+    "main.js": "/StudentList-project/static/js/main.738e5320.chunk.js",
+    "main.js.map": "/StudentList-project/static/js/main.738e5320.chunk.js.map",
+    "runtime-main.js": "/StudentList-project/static/js/runtime-main.de36cc14.js",
+    "runtime-main.js.map": "/StudentList-project/static/js/runtime-main.de36cc14.js.map",
+    "static/css/2.32c1ecfd.chunk.css": "/StudentList-project/static/css/2.32c1ecfd.chunk.css",
+    "static/js/2.bbef0439.chunk.js": "/StudentList-project/static/js/2.bbef0439.chunk.js",
+    "static/js/2.bbef0439.chunk.js.map": "/StudentList-project/static/js/2.bbef0439.chunk.js.map",
+    "index.html": "/StudentList-project/index.html",
+    "static/css/2.32c1ecfd.chunk.css.map": "/StudentList-project/static/css/2.32c1ecfd.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/StudentList-project/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.bbef0439.chunk.js.LICENSE.txt": "/StudentList-project/static/js/2.bbef0439.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de36cc14.js",
+    "static/css/2.32c1ecfd.chunk.css",
+    "static/js/2.bbef0439.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.738e5320.chunk.js"
+  ]
+}
